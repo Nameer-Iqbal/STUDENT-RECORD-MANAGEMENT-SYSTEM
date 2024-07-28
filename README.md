@@ -1,1 +1,2 @@
 # STUDENT-RECORD-MANAGEMENT-SYSTEM
+The student management system will include basic information about the student i.e First name ,Last name ,CGPA , Unique Enrollment number(key) etc. The student information will be connected using linked list where each node will represent a student, using traversing , the program will be able to search the student information according to the provided key (Enrollment number).
